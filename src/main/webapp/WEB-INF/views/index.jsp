@@ -7,6 +7,6 @@
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>PollSCM 테스트 중입니다!!</h3>
+    <h3>Testing Jenkins CI/CD Projects!!</h3>
 </body>
 </html>
